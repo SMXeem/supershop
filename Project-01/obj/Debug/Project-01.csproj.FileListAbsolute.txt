@@ -1,0 +1,36 @@
+D:\BITM\Short project\Project-01\Project-01\bin\Project-01.dll.config
+D:\BITM\Short project\Project-01\Project-01\bin\Project-01.dll
+D:\BITM\Short project\Project-01\Project-01\bin\Project-01.pdb
+D:\BITM\Short project\Project-01\Project-01\obj\Debug\Project-01.csprojResolveAssemblyReference.cache
+D:\BITM\Short project\Project-01\Project-01\obj\Debug\Project-01.dll
+D:\BITM\Short project\Project-01\Project-01\obj\Debug\Project-01.pdb
+E:\Sayed\Short project\Project-01\Project-01\bin\Project-01.dll.config
+E:\Sayed\Short project\Project-01\Project-01\bin\Project-01.dll
+E:\Sayed\Short project\Project-01\Project-01\bin\Project-01.pdb
+E:\Sayed\Short project\Project-01\Project-01\obj\Debug\Project-01.csprojResolveAssemblyReference.cache
+E:\Sayed\Short project\Project-01\Project-01\obj\Debug\Project-01.dll
+E:\Sayed\Short project\Project-01\Project-01\obj\Debug\Project-01.pdb
+C:\Users\User\Desktop\Project-01\Project-01\bin\Project-01.dll.config
+C:\Users\User\Desktop\Project-01\Project-01\bin\Project-01.dll
+C:\Users\User\Desktop\Project-01\Project-01\bin\Project-01.pdb
+C:\Users\User\Desktop\Project-01\Project-01\obj\Debug\Project-01.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project-01\Project-01\obj\Debug\Project-01.dll
+C:\Users\User\Desktop\Project-01\Project-01\obj\Debug\Project-01.pdb
+C:\Users\Web App Develop .Net\Desktop\Project-01\Project-01\bin\Project-01.dll.config
+C:\Users\Web App Develop .Net\Desktop\Project-01\Project-01\bin\Project-01.dll
+C:\Users\Web App Develop .Net\Desktop\Project-01\Project-01\bin\Project-01.pdb
+C:\Users\Web App Develop .Net\Desktop\Project-01\Project-01\obj\Debug\Project-01.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Project-01\Project-01\obj\Debug\Project-01.dll
+C:\Users\Web App Develop .Net\Desktop\Project-01\Project-01\obj\Debug\Project-01.pdb
+F:\Project-01\Project-01\bin\Project-01.dll.config
+F:\Project-01\Project-01\bin\Project-01.dll
+F:\Project-01\Project-01\bin\Project-01.pdb
+F:\Project-01\Project-01\obj\Debug\Project-01.csprojResolveAssemblyReference.cache
+F:\Project-01\Project-01\obj\Debug\Project-01.dll
+F:\Project-01\Project-01\obj\Debug\Project-01.pdb
+G:\Project-01\Project-01\bin\Project-01.dll.config
+G:\Project-01\Project-01\bin\Project-01.dll
+G:\Project-01\Project-01\bin\Project-01.pdb
+G:\Project-01\Project-01\obj\Debug\Project-01.csprojResolveAssemblyReference.cache
+G:\Project-01\Project-01\obj\Debug\Project-01.dll
+G:\Project-01\Project-01\obj\Debug\Project-01.pdb
